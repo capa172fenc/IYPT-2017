@@ -1,21 +1,18 @@
 
 
-Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yazınız. 
-
 Sınıf | Öğrenci İsmi  | Numara
--------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
+------|---------------|--------
+10-C  | Beyza Bilgenur Bahadır| 484
+10-C  | Zeynep Kaya | 487
+10-C  | Zeynep Kaya | 478
 
-#  (buraya proje başlığını yazınız)
+#  Wet and Dark
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+IYPT sorumuz 2015 yılının 16. sorusu olan " Wet and Dark". Projenin adını türkçeye çevirirsek eğer "Islak ve Koyu " gibi bir anlam çıkıyor. Zaten adından da anlaşıldığı gibi bizim sorumuzun amacı ıslanan cisimlerin daha koyu renkte gözükmesinin ya da renk değiştirmesinin sebebinin ne olduğunu,bu durumun hangi faktörler sonucu ortaya çıktığını bulmak. Bu konu hakkında araştırma ve deney yapıp parametreler deneyeceğiz. Araştırma aşamasında IYPT solutions sayfasındaki sorumuzun çözümünden ve bazı internet sitelerinden faydalanacağız.Özellikle daha önceden bu araştırmayı yapmış kişilerin bulduğu sonuçlar üzerinden kendimize bazı yollar belirleyeceğiz. Deney aşamasında ise çoğunlukla deneme yanılma yöntemini kullanmayı düşünüyoruz yani mesela kumaşın ıslandıktan sonra koyulaşmasının şöyle nedenleri olduğunu bulduk araştırmamızda: Kumaşın rengi,suyun sıcaklığı,ışığın rengi ya da açısı, bunları değişkenler olarak alıp değişkenleri değiştirip kumaşın renginin açıklığına ve koyuluğuna bakıp bu ton farkının nedenini değişkenler üzerinden tespit edeceğiz. Ve bunların sorumuzun çözümü olduğuna karar vereceğiz yani bizzat kendimiz göreceğiz. Aslına bakılırsa rengin koyulaşmasının tek bir nedeni yok. Deneyde kullanacağımız malzemeler fener,ışık sensörü,bunları sabitleyeceğimiz bir düzenek,farklı renklerdeki kumaşlar ve su. 
 
-## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
+## Kaynakçalar
+[1] https://www.google.com.tr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi1hbmok5bXAhXCD8AKHXsNBYsQFgglMAA&url=http%3A%2F%2Fsolutions.iypt.org%2Fuploads%2F2015_RU_Wet_and_dark_Nikita_Grushetsky_Maria_Mukhina_Egor_Shamanov_1441073708.pdf&usg=AOvVaw39uSqQCjFhsqPQ2Px4mlKu
 
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
+[2] https://www.google.com.tr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjLgrvBk5bXAhVCCsAKHdkMBJUQFgglMAA&url=http%3A%2F%2Fbilimseli.com%2Fislaksa-daha-koyu%2F&usg=AOvVaw353zSNkfU_GhexhE7EojBu
 
+[3] https://www.google.com.tr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiWgIbgk5bXAhUlKsAKHVBfD5EQFgglMAA&url=https%3A%2F%2Fphysics.stackexchange.com%2Fquestions%2F30366%2Fwhy-do-wet-objects-become-darker&usg=AOvVaw2--HvbkkCcNgFa3ZyhhsvH
